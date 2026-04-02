@@ -8,7 +8,7 @@
 
 ## 🧠 Currently Learning
 - Data Structures & Algorithms  
-- HTML, CSS, JavaScript  
+- Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
 
 ---
