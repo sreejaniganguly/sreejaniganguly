@@ -37,6 +37,8 @@
 ## 📫 Connect with Me
 - GitHub: https://github.com/sreejaniganguly  
 
+- Linkdin:
+https://www.linkedin.com/in/sreejani-ganguly-1a8ba5375
 ---
 
 ## ⚡ Fun Fact
