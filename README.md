@@ -29,7 +29,8 @@
 ---
 
 ## 🔥 Projects
-- 📌 First Demo Repo – Basic HTML project  
+- 📌 First Demo Repo – Basic HTML project
+- Legal-Document-Simplifier 
 - (More coming soon...)
 
 ---
