@@ -1,25 +1,25 @@
- Hey there! 👋
+ ## Hey there! 👋
  
 I'm Sreejani, a BTech student based in India.
 
 I learn by building — from AI-powered web apps 
 to DSA practice, I'm always working on something.
 
-Currently exploring
+## Currently exploring
 HTML, CSS, JavaScript, and 
 Node.js while solving problems in C++.
 ---
 
-Tech I'm Learning
-HTML · CSS ·  C++ · C . Git
+## Tech I'm Learning
+ HTML · CSS ·  C++ · C . Git
 ---
 
- Fun Facts
-- Planting & drawing are my hobbies
-- Into movies- Rom-coms are my fav genere
+## Fun Facts:
+   - Planting & drawing are my hobbies
+   -  I love watching movies
   ---
 
- Connect
+## Connect
 [GitHub](https://github.com/sreejaniganguly) | 
 [LinkedIn](https://linkedin.com/in/sreejani-ganguly-1a8ba5375/)
 
