@@ -5,7 +5,8 @@ I'm Sreejani, a BTech student based in India.
 I learn by building — from AI-powered web apps 
 to DSA practice, I'm always working on something.
 
-Currently exploring HTML, CSS, JavaScript, and 
+Currently exploring
+HTML, CSS, JavaScript, and 
 Node.js while solving problems in C++.
 ---
 
