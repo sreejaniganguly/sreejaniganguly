@@ -12,7 +12,7 @@ HTML, CSS Javascript while solving problems in C++ & C
 
 ## Tech I'm Learning
 
- HTML · CSS ·  C++ · C . Git
+HTML · CSS ·  C++ · C . Git
 ---
 
 ## Fun Facts:
