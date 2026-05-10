@@ -1,4 +1,23 @@
-## Hi there 👋
+ Hey there! 👋
+ 
+I'm Sreejani, a BTech student based in India.
+
+I learn by building — from AI-powered web apps 
+to DSA practice, I'm always working on something.
+
+Currently exploring HTML, CSS, JavaScript, and 
+Node.js while solving problems in C++.
+
+Tech I'm Learning
+HTML · CSS ·  C++ · C . Git
+
+ Fun Facts
+- Planting & drawing are my hobbies
+- Into movies- Rom-coms are my fav genere
+
+ Connect
+[GitHub](https://github.com/sreejaniganguly) | 
+[LinkedIn](https://linkedin.com/in/sreejani-ganguly-1a8ba5375/)## Hi there 👋
 
 <!--
 **sreejaniganguly/sreejaniganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
