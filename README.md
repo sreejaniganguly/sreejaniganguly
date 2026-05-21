@@ -6,7 +6,7 @@ I learn by building — from AI-powered web apps
 to DSA practice, I'm always working on something.
 
 ## Currently exploring:
- - HTML, CSS, Javascript while solving problems in C++ & C
+ - HTML, CSS, Javascript (Web dev) while solving problems in C++ & C
 ---
 
 ## Tech I'm Learning:
