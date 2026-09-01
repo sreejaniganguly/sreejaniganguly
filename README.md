@@ -2,15 +2,23 @@
  
 I'm Sreejani, a BTech student based in India.
 
-I learn by building — from AI-powered web apps, mini projects 
-to DSA practice, I'm always working on something.
+I enjoy learning by building — from web projects and AI-powered applications to DSA practice, I'm always working on something.
 
 ## Currently exploring:
  - HTML, CSS, Javascript (Web dev) while solving problems in C++ & C
 ---
 
-## Tech I'm Learning:
-  - HTML · CSS ·  C++ · C . Git
+## Tech Stack:
+
+**Languages:**
+  C, C++, JavaScript, Python
+    
+**Web Development:**
+HTML, CSS, JavaScript, React
+
+**Tools:**
+Git, GitHub, VS Code
+
 ---
 
 ## Fun Facts:
