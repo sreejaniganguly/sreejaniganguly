@@ -1,9 +1,9 @@
- ## Hey there! 👋
- 
-I'm Sreejani, a BTech student based in India.
+ ## Hi there, I'm Sreejani Ganguly 👋
 
-I enjoy learning by building — from web projects and AI-powered applications to DSA practice, I'm always working on something.
+ **Based in West Bengal, India | passionate about learning & building**.
 
+ Web Dev | GenAI | Machine Learning
+ Welcome to my GitHub profile! I'm currently building and learning software development and AI while working on projects along the way. I'm always eager to learn   and explore new tools, frameworks and oppourtunities.
 
 ---
 
