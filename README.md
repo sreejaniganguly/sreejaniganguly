@@ -8,7 +8,7 @@ I enjoy learning by building — from web projects and AI-powered applications t
 ---
 
 ## Technologies & Tools:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,js, rect, python)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,js,rect,python)
 
 ---
 
