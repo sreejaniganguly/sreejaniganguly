@@ -8,16 +8,8 @@ I enjoy learning by building — from web projects and AI-powered applications t
  - HTML, CSS, Javascript (Web dev) while solving problems in C++ & C
 ---
 
-## Tech Stack:
-
-**Languages:**
-  C, C++, JavaScript, Python
-    
-**Web Development:**
-HTML, CSS, JavaScript, React
-
-**Tools:**
-Git, GitHub, VS Code
+## Technologies & Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js, rect, python)](https://skillicons.dev)
 
 ---
 
