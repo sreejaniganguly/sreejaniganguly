@@ -4,12 +4,11 @@ I'm Sreejani, a BTech student based in India.
 
 I enjoy learning by building — from web projects and AI-powered applications to DSA practice, I'm always working on something.
 
-## Currently exploring:
- - HTML, CSS, Javascript (Web dev) while solving problems in C++ & C
+
 ---
 
 ## Technologies & Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js, rect, python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,js, rect, python)](https://skillicons.dev)
 
 ---
 
